@@ -1,0 +1,6 @@
+[submodule "WinSockMQ-producer"]
+	path = WinSockMQ-producer
+	url = https://github.com/kcnsmoothie/WinSockMQ-producer
+[submodule "WinSockMQ-consumer"]
+	path = WinSockMQ-consumer
+	url = https://github.com/kcnsmoothie/WinSockMQ-consumer
