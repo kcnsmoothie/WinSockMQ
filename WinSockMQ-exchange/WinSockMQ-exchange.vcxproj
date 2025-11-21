@@ -125,7 +125,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="exchange.cpp" />
-    <ClCompile Include="queue.cpp" />
+    <ClCompile Include="message.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="handler.h" />
+    <ClInclude Include="message.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

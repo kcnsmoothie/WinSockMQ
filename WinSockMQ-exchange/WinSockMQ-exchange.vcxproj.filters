@@ -18,8 +18,16 @@
     <ClCompile Include="exchange.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="queue.cpp">
+    <ClCompile Include="message.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="message.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="handler.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
